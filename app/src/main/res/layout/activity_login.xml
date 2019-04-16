@@ -22,6 +22,7 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginBottom="24dp"
             android:contentDescription="isi username"
+
             android:src="@drawable/ic_welcome_logo" />
 
         <!--  Email Label -->
@@ -30,6 +31,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp"
+            android:backgroundTint="@color/white"
             android:hint="Username"
             android:inputType="text"
             android:textColorHint="#fff" />
@@ -40,6 +42,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp"
+            android:backgroundTint="@color/white"
             android:hint="Password"
             android:inputType="text"
             android:textColorHint="#fff" />
@@ -90,6 +93,6 @@
             android:text="doesn't have account? Register"
             android:textColor="@color/white"
             android:textSize="16dip" />
-        
+
     </LinearLayout>
 </LinearLayout>

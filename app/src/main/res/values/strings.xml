@@ -21,11 +21,11 @@
     <string name="almost_thr">Almost There</string>
     <string name="thank">Thank you for registering with us. One more \n step, you need to check your email \n to active your account</string>
     <string name="verify">VERIFY</string>
-    <string name="verifyaccount">Verify your Account</string>
-    <string name="whs">we have send verification code to your email</string>
+    <string name="verifyacc">Verify your Account</string>
+    <string name="veremail">we have send verification code to your email</string>
     <string name="enterverf">enter verification code here...</string>
     <string name="send">Send</string>
-    <string name="resendCode">doesn\'t get the code ?<b> Resend</b></string>
+    <string name="resendCoded">doesn\'t get the code ?<b> Resend</b></string>
     <string name="nama">Muhammad Iqbal Shorfana</string>
     <string name="blood">Blood Type : B</string>
     <string name="juma">75</string>
