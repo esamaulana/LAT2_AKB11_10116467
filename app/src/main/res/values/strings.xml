@@ -25,9 +25,9 @@
     <string name="veremail">we have send verification code to your email</string>
     <string name="enterverf">enter verification code here...</string>
     <string name="send">Send</string>
-    <string name="resendCoded">doesn\'t get the code ?<b> Resend</b></string>
-    <string name="nama">Muhammad Iqbal Shorfana</string>
-    <string name="blood">Blood Type : B</string>
+    <string name="resend">doesn\'t get the code ? <b>Register</b> </string>
+    <string name="nama">Esa Maulana</string>
+    <string name="blood">Blood Type : 0</string>
     <string name="juma">75</string>
     <string name="bloodgive">BLOOD GIVE</string>
     <string name="tus">100</string>
@@ -35,7 +35,7 @@
     <string name="gagaluh">330</string>
     <string name="Thank">THANKS</string>
     <string name="sd"><b>Search Donor</b></string>
-    <string name="sdny">Search donor near you</string>
+    <string name="donear">Search donor near you</string>
     <string name="bn"><b>Blood Needed</b></string>
     <string name="users">4 Users need blood</string>
     <string name="message"><b>Message</b></string>

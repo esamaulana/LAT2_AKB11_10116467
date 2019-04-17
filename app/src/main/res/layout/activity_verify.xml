@@ -58,7 +58,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:gravity="center"
-            android:text="@string/resendCoded"
+            android:text="@string/resend"
             android:textColor="@color/white"
             android:textSize="17dp" />
 

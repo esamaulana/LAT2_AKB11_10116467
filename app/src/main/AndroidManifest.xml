@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".RegisterActivity" />
         <activity android:name=".AThereActivity" />
-        <activity android:name=".VerifyActivity"></activity>
+        <activity android:name=".VerifyActivity" />
+        <activity android:name=".UserActivity"></activity>
     </application>
 
 </manifest>

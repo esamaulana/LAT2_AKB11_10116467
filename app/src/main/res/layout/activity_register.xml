@@ -97,7 +97,6 @@
                 android:layout_width="fill_parent"
                 android:layout_height="25dp"
                 android:layout_weight="0.5"
-
                 android:entries="@array/darah" />
 
             <Spinner
