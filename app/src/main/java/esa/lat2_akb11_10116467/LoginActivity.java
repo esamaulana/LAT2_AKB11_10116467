@@ -1,14 +1,16 @@
 package esa.lat2_akb11_10116467;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 
 public class LoginActivity extends AppCompatActivity {
 
     Button connectFB;
+    TextView regist;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,5 +25,20 @@ public class LoginActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
+
     }
+
+    public void onClick(View v) {
+        Intent intent = null;
+        switch (v.getId()) {
+            case R.id.regist:
+                intent = new Intent(this, RegisterActivity.class);
+                break;
+        }
+        if (null != intent) startActivity(intent);
+    }
+
 }
+
+
