@@ -1,12 +1,5 @@
 package esa.lat2_akb11_10116467;
 
-// Esa M
-// 10116467
-// IF 11 - AKB 11
-// 16-4-19
-
-
-
         import android.content.Intent;
         import android.support.v7.app.AppCompatActivity;
         import android.os.Bundle;

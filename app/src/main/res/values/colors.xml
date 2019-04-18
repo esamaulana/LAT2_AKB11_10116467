@@ -9,9 +9,8 @@
     <color name="fontDesc">#808284</color>
     <color name="backg">#4ba6eb</color>
     <color name="black">#000</color>
-
     <color name="background">#ffffff</color>
     <color name="white">#ffffff</color>
     <color name="backgroundInviteFriend">#D81B60</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent">#43b3e6</color>
 </resources>

@@ -34,6 +34,7 @@
             android:backgroundTint="@color/white"
             android:hint="Username"
             android:inputType="text"
+            android:textColor="@color/white"
             android:textColorHint="#fff" />
 
         <!--  Password Label  -->
@@ -45,6 +46,7 @@
             android:backgroundTint="@color/white"
             android:hint="Password"
             android:inputType="text"
+            android:textColor="@color/white"
             android:textColorHint="#fff" />
 
         <!--  button login  -->
@@ -66,7 +68,8 @@
             android:layout_marginTop="20dp"
             android:gravity="center"
             android:text="Or"
-            android:textSize="16dip" />
+            android:textColor="@color/white"
+            android:textSize="16dp"/>
 
         <!--  button fb  -->
         <Button
