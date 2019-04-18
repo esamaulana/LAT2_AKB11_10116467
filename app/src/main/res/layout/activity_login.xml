@@ -95,7 +95,7 @@
             android:clickable="true"
             android:gravity="center"
             android:onClick="onClick"
-            android:text="doesn't have account? Register"
+            android:text="@string/register"
             android:textColor="@color/white"
             android:textSize="16dip" />
 
