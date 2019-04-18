@@ -73,6 +73,8 @@
                 android:layout_height="35dp"
                 android:layout_weight="5"
                 android:text="Male"
+                android:backgroundTint="@color/lightBlue"
+
                 android:textColor="@color/fontDesc"
                 android:textSize="14sp" />
 
@@ -81,6 +83,7 @@
                 android:layout_height="35dp"
                 android:layout_weight="5"
                 android:text="female"
+                android:backgroundTint="@color/lightBlue"
                 android:textColor="@color/fontDesc"
                 android:textSize="14sp" />
         </RadioGroup>
@@ -138,6 +141,7 @@
                 android:layout_weight="5"
                 android:text="@string/personal"
                 android:textColor="@color/fontDesc"
+                android:backgroundTint="@color/lightBlue"
                 android:textSize="14sp" />
 
             <RadioButton
@@ -145,6 +149,7 @@
                 android:layout_height="30dp"
                 android:layout_weight="5"
                 android:text="@string/organization"
+                android:backgroundTint="@color/lightBlue"
                 android:textColor="@color/fontDesc"
                 android:textSize="14sp" />
         </RadioGroup>

@@ -6,6 +6,11 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+// Esa M
+// 10116467
+// IF 11 - AKB 11
+// 16-4-19
+
 public class RegisterActivity extends AppCompatActivity {
 
     Button btn_Register;

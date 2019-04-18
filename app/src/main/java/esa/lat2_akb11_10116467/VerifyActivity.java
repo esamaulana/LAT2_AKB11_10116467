@@ -6,6 +6,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
+// Esa M
+// 10116467
+// IF 11 - AKB 11
+// 16-4-19
+
 public class VerifyActivity extends AppCompatActivity {
 
     Button btn_send;

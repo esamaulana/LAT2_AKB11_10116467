@@ -93,7 +93,6 @@
             android:gravity="center"
             android:onClick="onClick"
             android:text="doesn't have account? Register"
-
             android:textColor="@color/white"
             android:textSize="16dip" />
 
